@@ -79,6 +79,7 @@ Time Elapsed 00:00:02.22
 In /NetStandardApp, run the project by:
 
 ```
+$ dotnet dev-certs https
 $ dotnet run
 info: Microsoft.Hosting.Lifetime[0]
       Now listening on: https://localhost:5001
